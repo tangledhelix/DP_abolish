@@ -24,6 +24,8 @@ No forum posts.
 
 ### Illustrations ###
 
+- [x] fabricate a cover
+
 ### Things to revisit ###
 
 ### Proofer's notes ###
