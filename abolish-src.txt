@@ -13,23 +13,30 @@ Transcriber’s Note:
 The cover image was created by the transcriber and is placed in the public domain.
 .if-
 
+.pb
+
 // 001.png
 .bn 001.png
 .pn 1
 
+.ce
+<xl><i>ANTI-SLAVERY TRACTS. No. 14.</i></xl>
 
+.hr
 
+.sp 4
 
-<i>ANTI-SLAVERY TRACTS. No. 14.</i>[**F2:deleted in proofing rounds; uncertain if PP needs it tho]
-
+.h1
 “HOW CAN I HELP TO ABOLISH SLAVERY?”
 
-OR,
+.ce
+<s>OR,</s>
 
-COUNSELS TO THE NEWLY CONVERTED.
+.ce
+<l>COUNSELS TO THE NEWLY CONVERTED.</l>
 
+.ce
 BY MARIA WESTON CHAPMAN.
-
 
 Yes, my friend, I can resolve your question. Twenty years of
 actual experience qualify one to reply. I have stood, as you now
@@ -401,14 +408,11 @@ in what section of country, he wishes his contribution applied.
 .bn 010.png
 .pn +1
 
+.h2
+CONSTITUTION OF THE AMERICAN ANTI-SLAVERY SOCIETY.
 
-
-
-CONSTITUTION OF THE AMERICAN ANTI-SLAVERY
-SOCIETY.
-
+.h4
 FORMED IN PHILADELPHIA, DECEMBER 4, 1833.
-
 
 Whereas the Most High God “hath made of one blood all nations
 of men to dwell on all the face of the earth,” and hath commanded
