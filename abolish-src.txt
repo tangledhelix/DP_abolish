@@ -160,9 +160,9 @@ can compensate a monarch for his throne? This system of slavery
 makes the south the parent of long lines of princes. It gives to her
 diabolical dominions
 
-/#
+.nf b
 “Kingdoms, and sway, and strength, and length of days.”
-#/
+.nf-
 
 I am strangely divided in sympathy. I feel at once the generosity
 of the proposal, and have the feeling of contempt with which its I
@@ -318,10 +318,10 @@ of high-mindedness, the sense of absolute, immutable duty, the
 charm of chivalrous and poetic feeling, which would make of the
 poorest Americans the Christian gentlemen of the world.
 
-/*
+.nf b
 “Cherish all these high feelings that become
 A giver of the gift of liberty.”
-*/
+.nf-
 
 You will find yourself under the necessity of doing it in <em>this</em> noble
 company, or <em>alone</em>. Try it. Strive to be perfect, as God is perfect—to
