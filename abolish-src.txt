@@ -13,7 +13,9 @@ Transcriber’s Note:
 The cover image was created by the transcriber and is placed in the public domain.
 .if-
 
------File: 001.png---------------------------------------------------------
+// 001.png
+.bn 001.png
+.pn 1
 
 
 
@@ -54,7 +56,9 @@ black; to make its term longer by stultifying national conscience.
 See that society making the laws of slave States more cruel, the
 men of the free States more obdurate, the situation of the free men
 of color more difficult and insupportable, as a part of its plan. It
------File: 002.png---------------------------------------------------------
+// 002.png
+.bn 002.png
+.pn +1
 could not, if it would, transport three millions of souls to Africa;
 the navies and revenues of the world would be insufficient. It
 would not, if it could; for slavery has no intention of parting with
@@ -96,7 +100,9 @@ in the enlarged, real meaning of the word. Here is a building to
 be erected, and no sufficient materials. A <i>little</i> untempered mortar,
 a <i>few</i> unbaked bricks--that is all. Go to the deep quarries of the
 human heart, and make of your sons and daughters polished stones
------File: 003.png---------------------------------------------------------
+// 003.png
+.bn 003.png
+.pn +1
 to build the temple of the Lord. It is this cleaving into the living
 rock the <sc>American Anti-Slavery Society</sc> girds itself to do.
 Under its operations men become better and better abolitionists.
@@ -137,7 +143,9 @@ and convert a thousand. But there is a <i>wholesale</i> way, cries one.
 merely mercantile donation of a million to the infant cent society, and
 thus raise two thousand millions of dollars, and beg the slaveholders
 to take it, (not as compensation, but as a token of good will,) and
------File: 004.png---------------------------------------------------------
+// 004.png
+.bn 004.png
+.pn +1
 let their bondmen go.” I marvel at this insufficient notion of the
 heart of a slaveholder. I wonder exceedingly at such a want of
 imagination. “Not as compensation” is well put; for what sum
@@ -181,7 +189,9 @@ and shortsighted! the <i>demand</i> is the <i>preparation</i>; nothing can
 supply the place of <i>that</i>. And <i>exclusive</i> instruction, teaching for
 <i>blacks</i>, a school founded on color, a church in which men are herded
 ignominiously, apart from the refining influence of association with
------File: 005.png---------------------------------------------------------
+// 005.png
+.bn 005.png
+.pn +1
 the more highly educated and accomplished,--what are they? A
 direct way of fitting white men for tyrants, and black men for slaves.
 No; if you would teach and Christianize the nation, strengthen the
@@ -222,7 +232,9 @@ While wrong exists in the world, you cannot (short of suicide) but
 draw your every life breath in involuntary connection with it; nor
 is conscience to be satisfied with any thing short of a complete devotion
 to the anti-slavery cause of the life that is sustained by sla-*
------File: 006.png---------------------------------------------------------
+// 006.png
+.bn 006.png
+.pn +1
 very. We <i>may</i> draw good out of evil: we <i>must not</i> do evil, that
 good may come. Yet I counsel you to honor those who eat no
 sugar, as <i>you</i> ask no questions for conscience’s sake; while you
@@ -263,7 +275,9 @@ to its other titles, in order to establish a claim on the purses
 of abolitionists--in any of these cases I would not have stopped to
 talk with you. Your interest being the thing you had at heart, I
 should not <i>counsel</i>; I should be called, in the name of all that is
------File: 007.png---------------------------------------------------------
+// 007.png
+.bn 007.png
+.pn +1
 holy, to <i>condemn</i> you, in order that blame might awaken conscience.
 But the case, I trust, is different. I may, then, say to you, with all
 the confidence, nay, certainty, which is inseparable from experience,
@@ -306,7 +320,9 @@ You will find yourself under the necessity of doing it in <i>this</i> noble
 company, or <i>alone</i>. Try it. Strive to be perfect, as God is perfect--to
 act up to your own highest idea, in connection with church or
 state in this land corrupted by slavery, and see if you are helped or
------File: 008.png---------------------------------------------------------
+// 008.png
+.bn 008.png
+.pn +1
 hindered. Be not dragged along by them protesting. It is graceing
 as a slave the chariot wheels of a triumph. But flee from them, as
 one flees out of Babylon. Secure the blessing of union for good,
@@ -350,7 +366,9 @@ and to that brotherhood who have battled twenty years in the breach
 for <i>your</i> freedom, involved with that of the meanest slave.
 
 [Footnote A: For the local offices, see bottom of page 12.]
------File: 009.png---------------------------------------------------------
+// 009.png
+.bn 009.png
+.pn +1
 
 Imagine how the case stood with those who perished by suffocation
 in the Black Hole at Calcutta. Suppose that some of their number
@@ -379,7 +397,9 @@ of the grand onset against the civil system.
 on by newspapers, books, tracts, agents, meetings, and conventions.
 The donor is requested to specify to what department, and
 in what section of country, he wishes his contribution applied.
------File: 010.png---------------------------------------------------------
+// 010.png
+.bn 010.png
+.pn +1
 
 
 
@@ -419,7 +439,9 @@ to do all that is lawfully in our power to bring about the extinction
 of slavery, we do hereby agree, with a prayerful reliance on the
 divine aid, to form ourselves into a society to be governed by the
 following constitution:--
------File: 011.png---------------------------------------------------------
+// 011.png
+.bn 011.png
+.pn +1
 
 <sc>Article I.</sc>--This society shall be called the <sc>American Anti-Slavery
 Society</sc>.
@@ -466,7 +488,9 @@ call special meetings of the society. They shall make arrangements
 for all meetings of the society, make an annual written
 report of their doings, the expenditures and funds of the society,
 and shall hold stated meetings, and adopt the most energetic meas-*
------File: 012.png---------------------------------------------------------
+// 012.png
+.bn 012.png
+.pn +1
 *ures in their power to advance the objects of the society. They
 may, if they shall see fit, appoint a board of assistant managers,
 composed of not less than three nor more than seven persons residing
