@@ -391,7 +391,7 @@ parties and churches, instruction diffused, the products of free labor
 multiplied, and fugitives protected, in exact proportion to the energy
 of the grand onset against the civil system.
 
-<tb>
+.tb
 
 <sc>Note.</sc> The work of the American Anti-Slavery Society[**F1 small caps ?] is carried
 on by newspapers, books, tracts, agents, meetings, and conventions.
@@ -530,7 +530,7 @@ meeting of the society, by a vote of two thirds of the members
 present, provided the amendments proposed have been previously
 submitted, in writing, to the executive committee.
 
-<tb>
+.tb
 
 <i>Published for gratuitous distribution, at the Office of the</i> <sc>American
 Anti-Slavery Society</sc>, <i>No. 138 Nassau Street, New York</i>. <i>Also
