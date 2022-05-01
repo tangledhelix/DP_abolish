@@ -372,7 +372,9 @@ condition,—but consider, also, what you owe to those individuals
 and to that brotherhood who have battled twenty years in the breach
 for <em>your</em> freedom, involved with that of the meanest slave.
 
-[Footnote A: For the local offices, see bottom of page 12.]
+.fn A
+For the local offices, see bottom of page 12.
+.fn-
 // 009.png
 .bn 009.png
 .pn +1
@@ -404,9 +406,13 @@ of the grand onset against the civil system.
 on by newspapers, books, tracts, agents, meetings, and conventions.
 The donor is requested to specify to what department, and
 in what section of country, he wishes his contribution applied.
+
+.fm lz=th
 // 010.png
 .bn 010.png
 .pn +1
+
+.pb
 
 .h2
 CONSTITUTION OF THE AMERICAN ANTI-SLAVERY SOCIETY.
