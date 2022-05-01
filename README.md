@@ -34,6 +34,20 @@ No forum posts.
 
 ### Spellcheck ###
 
+- [x] cludes
+    - 147: buy the elixir vitæ; preferring the less, which _ex_cludes
+    - 148: greater, to the greater, which _in_cludes the less. Slavery can
+    - this is just a formatting artifact, not a misspelling
+- [x] coöperation
+    - 284: association. Many are in harmonious coöperation with it who have
+    - this is fancy typograpy... or maybe the author's descendants foudned The New Yorker
+- [x] Cudjoe
+    - 176: “faithful Cudjoe or Dinah,” whose strong natures blossomed
+    - seems to be a name related to slavery in Jamaica? Wikipedia
+- [x] vitæ
+    - 147: what would buy the elixir vitæ; preferring the less, which
+    - Latin word w/ ligature
+
 ### Transcriber's notes ###
 
 Some inconsistencies in spelling, hyphenation, and punctuation have been
