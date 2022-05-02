@@ -549,3 +549,13 @@ Anti-Slavery Society</sc>, <i>No. 138 Nassau Street, New York</i>. <i>Also
 to be had at the Anti-Slavery Offices, No. 21 Cornhill, Boston, and
 No. 31 North Fifth Street, Philadelphia; and at the Anti-Slavery
 Depository, Salem, Columbiana Co., Ohio.</i>
+
+.h2
+Transcriber’s Notes
+
+Some inconsistencies in spelling, hyphenation, punctuation, and
+typography have been retained.
+
+.if t
+This file uses _underscores_ to indicate italic text.
+.if-
