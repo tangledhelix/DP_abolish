@@ -160,9 +160,11 @@ can compensate a monarch for his throne? This system of slavery
 makes the south the parent of long lines of princes. It gives to her
 diabolical dominions
 
-.nf b
+.in +4
+.ll -4
 “Kingdoms, and sway, and strength, and length of days.”
-.nf-
+.in
+.ll
 
 I am strangely divided in sympathy. I feel at once the generosity
 of the proposal, and have the feeling of contempt with which its I
