@@ -30,6 +30,39 @@ No forum posts.
 
 ### Proofer's notes ###
 
+#### Smallcaps for Society's name ####
+
+(6) proofer notes mentioned that the name
+"American Anti-Slavery Society" is in small caps
+in some places, not in others. Catalog of occurrences
+of this name/phrase in the overall text:
+
+- smallcaps
+    - 003 (3x)
+    - 004
+    - 005
+    - 007
+    - 008
+    - 011
+    - 012
+- not smallcaps
+    - 002
+    - 004
+    - 005 (3x)
+    - 006 (2x)
+    - 007
+    - 008
+    - 009 (x2)
+
+Note: as of 010 we've moved into the Society's Constitution.
+
+Totals:
+
+- smallcaps (excluding Constitution): 7
+- not smallcaps: 11
+
+Conclusion: leave as printed. Perhaps there was an intention behind this.
+
 ### Joined hyphenated words ###
 
 ### Spellcheck ###
@@ -50,5 +83,5 @@ No forum posts.
 
 ### Transcriber's notes ###
 
-Some inconsistencies in spelling, hyphenation, and punctuation have been
-retained.
+Some inconsistencies in spelling, hyphenation, punctuation, and
+typography have been retained.
