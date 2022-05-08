@@ -424,7 +424,7 @@ in what section of country, he wishes his contribution applied.
 .h2
 CONSTITUTION OF THE AMERICAN ANTI-SLAVERY SOCIETY.
 
-.h4
+.ce
 FORMED IN PHILADELPHIA, DECEMBER 4, 1833.
 
 Whereas the Most High God “hath made of one blood all nations
