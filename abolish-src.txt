@@ -562,5 +562,5 @@ Some inconsistencies in spelling, hyphenation, punctuation, and
 typography have been retained.
 
 .if t
-This file uses _underscores_ to indicate italic text.
+This file uses <i>underscores</i> to indicate italic text.
 .if-
